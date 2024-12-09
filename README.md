@@ -1,4 +1,4 @@
-# Pepper-Box owned by GSLABDec/Pepper-Box which is not available at moment Hence to secure jar file created this one.
+# Pepper-Box owned by GSLABDev/Pepper-Box which is not available at moment Hence to secure jar file created this one.
 https://github.com/GSLabDev/pepper-box
 https://github.com/vamsidarbhamulla/pepper-box
 https://github.com/satishbhor/pepper-box
